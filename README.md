@@ -1,5 +1,7 @@
 # PYLTBArrayView-
 label - textField - Button 结构 的组件封装
+
+
 ![当dismiss时候定时器被销毁了](http://upload-images.jianshu.io/upload_images/4185621-454161d42f95b197.gif?imageMogr2/auto-orient/strip)
 
 # 前言：
