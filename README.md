@@ -8,6 +8,7 @@ label - textField - Button 结构 的组件封装
 > 了解swift GCD 与OC GCD请看我的其他总结文章，这篇文章只是对swift GCD定时器的一个实例探讨，如果有什么不对，请各位指正。
 
 [swift CGD 地址](http://www.jianshu.com/p/fc04be41c698)
+
 [OC CGD 地址](http://www.jianshu.com/p/fc04be41c698)
 
 --- 
